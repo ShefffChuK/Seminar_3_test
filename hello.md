@@ -41,3 +41,11 @@ Git add
 ![картинка](https://klike.net/uploads/posts/2020-06/1591253681_1.jpg)
 
 [работа с md](https://gist.github.com/Jekins/2bf2d0638163f1294637)
+
+## Работа со списками
+
+1. Один
+2. Два
+
+*
++
